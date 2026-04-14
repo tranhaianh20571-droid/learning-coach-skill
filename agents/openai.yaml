@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习教练"
+  short_description: "做完整初始化、按天排学习任务、安排每日小测并持续记录进度"
+  default_prompt: "使用 $learning-coach，先一次性对齐目标、天数、时间预算、资料、基础、颗粒度和边界，再生成阶段计划与按天任务；默认先讲后测，并把依据、调整和学习记录持续写入文件。"
